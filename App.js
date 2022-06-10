@@ -13,6 +13,8 @@ export default function App() {
         return <View/>
     }
 
+    
+
   return (
     <SafeAreaView>
       <StatusBar />
