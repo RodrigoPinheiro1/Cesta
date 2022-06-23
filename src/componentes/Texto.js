@@ -17,7 +17,6 @@ const estilos = StyleSheet.create({
     texto:{
         fontFamily:"MontserratRegular",
         fontWeight:"normal",
-
     },
 
     textoNegrito:{
